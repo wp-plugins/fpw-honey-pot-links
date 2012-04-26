@@ -4,7 +4,8 @@
 		$sidebar =	'<p style="font-size: larger">' . __( 'More information', 'fpw-fhpl' ) . '</p>' . 
 					'<blockquote><a href="http://fw2s.com/" target="_blank">' . __( 'Plugin\' site', 'fpw-fhpl' ) . '</a></blockquote>' . 
 					'<p style="font-size: larger">' . __( 'Support', 'fpw-fhpl' ) . '</p>' . 
-					'<blockquote><a href="http://fw2s.com/support/fpw-honey-pot-links/" target="_blank">FWSS</a></blockquote>'; 
+					'<blockquote><a href="http://wordpress.org/tags/fpw-honey-pot-links?forum_id=10" target="_blank">WordPress</a><br />' . 
+					'<a href="http://fw2s.com/support/fpw-honey-pot-links/" target="_blank">FWSS</a></blockquote>'; 
 			
 		$current_screen->set_help_sidebar( $sidebar );
 			
