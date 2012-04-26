@@ -1,10 +1,10 @@
-# Copyright (C) 2012 FPW Category Thumbnails
-# This file is distributed under the same license as the FPW Category Thumbnails package.
+# Copyright (C) 2012 FPW Honey Pot Links
+# This file is distributed under the same license as the FPW Honey Pot Links package.
 msgid ""
 msgstr ""
-"Project-Id-Version: FPW Category Thumbnails 1.4.8\n"
-"Report-Msgid-Bugs-To: http://wordpress.org/tag/fpw-category-thumbnails\n"
-"POT-Creation-Date: 2012-04-18 18:21:10+00:00\n"
+"Project-Id-Version: FPW Honey Pot Links 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/fpw-honey-pot-links\n"
+"POT-Creation-Date: 2012-04-26 15:58:03+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -12,513 +12,198 @@ msgstr ""
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 
-#: ajax/fpwfctajax.php:11 classes/fpw-category-thumbnails.class.php:515
-msgid "Picture"
-msgstr ""
-
-#. #-#-#-#-#  plugin.pot (FPW Category Thumbnails 1.4.8)  #-#-#-#-#
+#. #-#-#-#-#  plugin.pot (FPW Honey Pot Links 1.0.0)  #-#-#-#-#
 #. Plugin Name of the plugin/theme
-#: classes/fpw-category-thumbnails.class.php:58
-#: classes/fpw-category-thumbnails.class.php:59
-#: classes/fpw-category-thumbnails.class.php:193
-#: classes/fpw-category-thumbnails.class.php:378
-msgid "FPW Category Thumbnails"
+#: classes/fpw-honey-pot-links.class.php:60
+#: classes/fpw-honey-pot-links.class.php:61
+#: classes/fpw-honey-pot-links.class.php:179
+#: classes/fpw-honey-pot-links.class.php:260
+msgid "FPW Honey Pot Links"
 msgstr ""
 
-#: classes/fpw-category-thumbnails.class.php:96
+#: classes/fpw-honey-pot-links.class.php:94
 msgid "What's new in this version?"
 msgstr ""
 
-#: classes/fpw-category-thumbnails.class.php:97
-msgid "Added support for pointers"
+#: classes/fpw-honey-pot-links.class.php:95
+msgid "First release of the plugin"
 msgstr ""
 
-#: classes/fpw-category-thumbnails.class.php:98
-msgid "Minor bugs fixes"
-msgstr ""
-
-#: classes/fpw-category-thumbnails.class.php:99
-msgid "Planned for the next version"
-msgstr ""
-
-#: classes/fpw-category-thumbnails.class.php:101
-msgid "Support for multiple thumbnails."
-msgstr ""
-
-#: classes/fpw-category-thumbnails.class.php:102
-msgid ""
-"It will be possible to display more than one thumbnail if a post / page does "
-"belong to two or more categories."
-msgstr ""
-
-#: classes/fpw-category-thumbnails.class.php:157
+#: classes/fpw-honey-pot-links.class.php:135
 msgid "Donate"
 msgstr ""
 
-#: classes/fpw-category-thumbnails.class.php:163
+#: classes/fpw-honey-pot-links.class.php:141
 msgid "Settings"
 msgstr ""
 
-#: classes/fpw-category-thumbnails.class.php:187
+#: classes/fpw-honey-pot-links.class.php:173
 msgid "FPW Plugins"
 msgstr ""
 
-#: classes/fpw-category-thumbnails.class.php:263
+#: classes/fpw-honey-pot-links.class.php:198
 msgid "You did not send any credentials!"
 msgstr ""
 
-#: classes/fpw-category-thumbnails.class.php:265
+#: classes/fpw-honey-pot-links.class.php:200
 msgid "You did not send the right credentials!"
 msgstr ""
 
-#: classes/fpw-category-thumbnails.class.php:383
-msgid "WARNING: Your theme has no support for <em>post thumbnails</em>!"
-msgstr ""
-
-#: classes/fpw-category-thumbnails.class.php:384
-msgid ""
-"You can continue with <em>Settings</em> but until you add "
-"<code>add_theme_support( 'post-thumbnails' );</code> to the theme's "
-"functions.php you will not be able to display thumbnails."
-msgstr ""
-
-#: classes/fpw-category-thumbnails.class.php:394
+#: classes/fpw-honey-pot-links.class.php:267
 msgid "Updated successfully."
 msgstr ""
 
-#: classes/fpw-category-thumbnails.class.php:396
+#: classes/fpw-honey-pot-links.class.php:269
 msgid "No changes detected. Nothing to update."
 msgstr ""
 
-#: classes/fpw-category-thumbnails.class.php:401
-msgid "Applied thumbnails to existing posts / pages successfully."
+#: classes/fpw-honey-pot-links.class.php:274
+msgid "Added Honey Pot links to existing posts / pages successfully."
 msgstr ""
 
-#: classes/fpw-category-thumbnails.class.php:405
-msgid "All thumbnails removed successfully."
+#: classes/fpw-honey-pot-links.class.php:278
+msgid "All Honey Pot links removed successfully."
 msgstr ""
 
-#: classes/fpw-category-thumbnails.class.php:421 code/enqueuescripts.php:17
-#: code/enqueuescripts.php:26 help/help.php:17 help/help33.php:28
-msgid "Do not overwrite if post / page has thumbnail assigned already"
-msgstr ""
-
-#: classes/fpw-category-thumbnails.class.php:427 help/help.php:19
-#: help/help33.php:30
+#: classes/fpw-honey-pot-links.class.php:294 help/help33.php:25
 msgid "Remove plugin's data from database on uninstall"
 msgstr ""
 
-#: classes/fpw-category-thumbnails.class.php:434 help/help.php:21
-#: help/help33.php:32
+#: classes/fpw-honey-pot-links.class.php:300 help/help33.php:27
 msgid "Add this plugin to the Admin Bar"
 msgstr ""
 
-#: classes/fpw-category-thumbnails.class.php:439
-msgid "width of Image ID column in pixels ( for English - 396 )"
+#: classes/fpw-honey-pot-links.class.php:303
+msgid "Link position relative to content:"
 msgstr ""
 
-#: classes/fpw-category-thumbnails.class.php:445
-#: classes/fpw-category-thumbnails.class.php:452
-msgid "Category (ID)"
+#: classes/fpw-honey-pot-links.class.php:304
+msgid "before"
 msgstr ""
 
-#: classes/fpw-category-thumbnails.class.php:446
-#: classes/fpw-category-thumbnails.class.php:453
-msgid "Image ID"
+#: classes/fpw-honey-pot-links.class.php:307
+msgid "after"
 msgstr ""
 
-#: classes/fpw-category-thumbnails.class.php:447
-#: classes/fpw-category-thumbnails.class.php:454
-msgid "Preview"
+#: classes/fpw-honey-pot-links.class.php:312
+msgid "Link"
 msgstr ""
 
-#: classes/fpw-category-thumbnails.class.php:469
-#: classes/fpw-category-thumbnails.class.php:502 code/enqueuescripts.php:12
-#: help/help.php:46 help/help33.php:52
-msgid "Get ID"
+#: classes/fpw-honey-pot-links.class.php:319
+msgid "Writes modified settings to the database"
 msgstr ""
 
-#: classes/fpw-category-thumbnails.class.php:482
-msgid "Writes modified options and mapping to the database"
-msgstr ""
-
-#: classes/fpw-category-thumbnails.class.php:483 help/help.php:62
-#: help/help33.php:68
+#: classes/fpw-honey-pot-links.class.php:320 help/help33.php:40
 msgid "Update"
 msgstr ""
 
-#: classes/fpw-category-thumbnails.class.php:485
-msgid ""
-"Adds post thumbnail to every existing post / page belonging to the category "
-"which has thumbnail id mapped to"
+#: classes/fpw-honey-pot-links.class.php:322
+msgid "Adds Honey Pot links to all existing posts / pages"
 msgstr ""
 
-#: classes/fpw-category-thumbnails.class.php:486 help/help.php:66
-#: help/help33.php:71
-msgid "Apply Mapping"
+#: classes/fpw-honey-pot-links.class.php:323 help/help33.php:43
+msgid "Add Links"
 msgstr ""
 
-#: classes/fpw-category-thumbnails.class.php:488
-msgid ""
-"Removes thumbnails from all existing posts / pages regardless of the category"
+#: classes/fpw-honey-pot-links.class.php:325
+msgid "Removes Honey Pot links from all existing posts / pages"
 msgstr ""
 
-#: classes/fpw-category-thumbnails.class.php:489 help/help.php:70
-#: help/help33.php:74
-msgid "Remove Thumbnails"
+#: classes/fpw-honey-pot-links.class.php:326 help/help33.php:46
+msgid "Remove Links"
 msgstr ""
 
-#: classes/fpw-category-thumbnails.class.php:502
-msgid "fetches image ID from media library"
+#: code/enqueuescripts.php:5
+msgid "Help for FPW Honey Pot Links"
 msgstr ""
 
-#: classes/fpw-category-thumbnails.class.php:503
-msgid "will use author's picture as a thumbnail"
-msgstr ""
-
-#: classes/fpw-category-thumbnails.class.php:503 help/help.php:50
-#: help/help33.php:56
-msgid "Author's picture"
-msgstr ""
-
-#: classes/fpw-category-thumbnails.class.php:504
-msgid "clears 'Image ID' input value and 'Preview' area"
-msgstr ""
-
-#: classes/fpw-category-thumbnails.class.php:504 help/help.php:54
-#: help/help33.php:60
-msgid "Clear"
-msgstr ""
-
-#: classes/fpw-category-thumbnails.class.php:505
-msgid "refreshes 'Preview' area"
-msgstr ""
-
-#: classes/fpw-category-thumbnails.class.php:505 help/help.php:58
-#: help/help33.php:64
-msgid "Refresh"
-msgstr ""
-
-#: code/enqueuescripts.php:13
-msgid "This action will add thumbnails based on current settings to"
-msgstr ""
-
-#: code/enqueuescripts.php:14 code/enqueuescripts.php:23
-msgid "ALL"
-msgstr ""
-
-#: code/enqueuescripts.php:15 code/enqueuescripts.php:24
-msgid "existing posts / pages."
-msgstr ""
-
-#: code/enqueuescripts.php:16 code/enqueuescripts.php:25
-msgid "Option"
-msgstr ""
-
-#: code/enqueuescripts.php:18
-msgid "will be respected."
-msgstr ""
-
-#: code/enqueuescripts.php:19
-msgid "Are you sure you want to proceed?"
-msgstr ""
-
-#: code/enqueuescripts.php:20
-msgid "This action"
-msgstr ""
-
-#: code/enqueuescripts.php:21
-msgid "WILL REMOVE"
-msgstr ""
-
-#: code/enqueuescripts.php:22
-msgid "thumbnails from"
-msgstr ""
-
-#: code/enqueuescripts.php:27
-msgid "WILL NOT"
-msgstr ""
-
-#: code/enqueuescripts.php:28
-msgid "be respected!"
-msgstr ""
-
-#: code/enqueuescripts.php:29
-msgid "Are you sure you want to clear this ID?"
-msgstr ""
-
-#: code/enqueuescripts.php:30
-msgid "Get Image ID"
-msgstr ""
-
-#: code/enqueuescripts.php:31
-msgid "Please confirm"
-msgstr ""
-
-#: code/enqueuescripts.php:32
-msgid "Help for FPW Category Thumbnails"
-msgstr ""
-
-#: code/enqueuescripts.php:35
-msgid "OK"
-msgstr ""
-
-#: code/enqueuescripts.php:36
-msgid "Cancel"
-msgstr ""
-
-#: help/help.php:5 help/help33.php:12 help/help33.php:22
-msgid "Introduction"
-msgstr ""
-
-#: help/help.php:6 help/help33.php:38
-msgid "Options"
-msgstr ""
-
-#: help/help.php:11 help/help33.php:13
-msgid ""
-"Setting featured images for posts / pages could be very time consuming, "
-msgstr ""
-
-#: help/help.php:12 help/help33.php:14
-msgid "especially when your media library holds hundreds of pictures. "
-msgstr ""
-
-#: help/help.php:13 help/help33.php:15
-msgid ""
-"Very often we select the same thumbnail for posts in particular category. "
-msgstr ""
-
-#: help/help.php:14 help/help33.php:16
-msgid ""
-"This plugin automates the process by inserting a thumbnail based on "
-"category / thumbnail mapping while post / page is being created or updated."
-msgstr ""
-
-#: help/help.php:15 help/help33.php:17
-msgid "Note"
-msgstr ""
-
-#: help/help.php:16 help/help33.php:18
-msgid "Please remember that the active theme must support post thumbnails."
-msgstr ""
-
-#: help/help.php:18 help/help.php:20 help/help.php:22 help/help33.php:29
-#: help/help33.php:31 help/help33.php:33
-msgid "checked"
-msgstr ""
-
-#: help/help.php:18 help/help33.php:29
-msgid ""
-"while the post is being saved the originally set thumbnail will be preserved"
-msgstr ""
-
-#: help/help.php:20 help/help33.php:31
-msgid ""
-"during uninstall procedure all plugin's information ( options, mappings ) "
-"will be removed from the database"
-msgstr ""
-
-#: help/help.php:22 help/help33.php:33
-msgid "the plugin's link to its settings page will be added to the Admin Bar"
-msgstr ""
-
-#: help/help.php:23 help/help33.php:34
-msgid "width of Image ID column in pixels"
-msgstr ""
-
-#: help/help.php:24 help/help33.php:35
-msgid ""
-"this value may need to be adjusted for non-English translations of the "
-"plugin as widths of buttons could be different"
-msgstr ""
-
-#: help/help.php:32 help/help33.php:78
-msgid "Mapping & Actions"
-msgstr ""
-
-#: help/help.php:33
-msgid "FAQ & Support"
-msgstr ""
-
-#: help/help.php:38 help/help33.php:44
-msgid ""
-"Each row of the mapping table represents a category and a thumbnail image ID "
-"assigned to it."
-msgstr ""
-
-#: help/help.php:39 help/help33.php:45
-msgid "First column holds a category name and its ID."
-msgstr ""
-
-#: help/help.php:40 help/help33.php:46
-msgid ""
-"Second column consists of four elements: Image ID - an input field which "
-"holds thumbnails image ID,"
-msgstr ""
-
-#: help/help.php:41 help/help33.php:47
-msgid ""
-"Get ID, Clear, and Refresh buttons. Third column holds thumbnail's preview."
-msgstr ""
-
-#: help/help.php:42 help/help33.php:48
-msgid ""
-"Image ID can be entered manually ( if you remember it ) or by clicking on "
-"'Get ID' button which will call 'media upload' overlay."
-msgstr ""
-
-#: help/help.php:43 help/help33.php:49
-msgid "Action Buttons"
-msgstr ""
-
-#: help/help.php:45 help/help.php:49 help/help.php:53 help/help.php:57
-#: help/help.php:61 help/help.php:65 help/help.php:69 help/help33.php:51
-#: help/help33.php:55 help/help33.php:59 help/help33.php:63 help/help33.php:67
-#: help/help33.php:70 help/help33.php:73
-msgid "Inactive button - presentation only"
-msgstr ""
-
-#: help/help.php:47 help/help33.php:53
-msgid ""
-"will call 'media upload' overlay and on return will populate 'Image ID' "
-"input box and 'Preview' area ( AJAX - without reloading screen )"
-msgstr ""
-
-#: help/help.php:51 help/help33.php:57
-msgid "will assign author's picture as a thumbnail for the category"
-msgstr ""
-
-#: help/help.php:55 help/help33.php:61
-msgid ""
-"will enter '0' as image ID and clear 'Preview' area ( AJAX - without "
-"reloading screen )"
-msgstr ""
-
-#: help/help.php:59 help/help33.php:65
-msgid ""
-"when clicked after entering of an image ID manually it will populate "
-"'Preview' area ( AJAX - without reloading screen )"
-msgstr ""
-
-#: help/help.php:63 help/help33.php:68
-msgid "saves modified options and mapping to the database"
-msgstr ""
-
-#: help/help.php:67 help/help33.php:71
-msgid "adds thumbnails to existing posts / pages based on category mapping"
-msgstr ""
-
-#: help/help.php:71 help/help33.php:74
-msgid "removes thumbnails from all posts /pages regardless of the category"
-msgstr ""
-
-#: help/help.php:74 help/help.php:81 help/help.php:86 help/help33.php:84
-#: help/help33.php:91 help/help33.php:95
-msgid "Question:"
-msgstr ""
-
-#: help/help.php:75 help/help33.php:85
-msgid ""
-"I got an ID for the image and assigned it to the category, and the plugin "
-"does not display it in posts."
-msgstr ""
-
-#: help/help.php:76 help/help.php:83 help/help.php:88 help/help33.php:86
-#: help/help33.php:93 help/help33.php:97
-msgid "Answer:"
-msgstr ""
-
-#: help/help.php:76 help/help33.php:86
-msgid ""
-"The plugin does not display thumbnails by itself. This is your theme's role."
-msgstr ""
-
-#: help/help.php:77 help/help33.php:87
-msgid "Read this article"
-msgstr ""
-
-#: help/help.php:80 help/help33.php:90
-msgid "by"
-msgstr ""
-
-#: help/help.php:80 help/help33.php:90
-msgid "about enabling theme's support for post thumbnails."
-msgstr ""
-
-#: help/help.php:82 help/help33.php:92
-msgid ""
-"I've entered ID of a picture from NextGen Gallery and thumbnail doesn't show."
-msgstr ""
-
-#: help/help.php:84 help/help33.php:94
-msgid ""
-"IDs from NextGen Gallery must be entered with ngg- prefix, so ID 230 should "
-"be entered as ngg-230."
-msgstr ""
-
-#: help/help.php:87 help/help33.php:96
-msgid "What is required to use authors' pictures as thumbnails?"
-msgstr ""
-
-#: help/help.php:89 help/help33.php:98
-msgid "Upload authors' pictures into media library or NextGen gallery."
-msgstr ""
-
-#: help/help.php:90 help/help33.php:99
-msgid ""
-"File names of authors' pictures in media library must follow this naming "
-"convention: 'autor_id.jpg' where 'id' is author's user id. "
-msgstr ""
-
-#: help/help.php:91 help/help33.php:100
-msgid ""
-"File names of authors' pictures in NextGen gallery must follow this naming "
-"convention: 'id.jpg' where 'id' is author's user id."
-msgstr ""
-
-#: help/help.php:92 help/help33.php:101
-msgid "The name of NextGen gallery must be 'authors'."
-msgstr ""
-
-#: help/help.php:93 help/help33.php:4
+#: help/help33.php:4
 msgid "More information"
-msgstr ""
-
-#: help/help.php:94
-msgid "Plugin's site"
-msgstr ""
-
-#: help/help.php:95 help/help33.php:6
-msgid "Support"
 msgstr ""
 
 #: help/help33.php:5
 msgid "Plugin' site"
 msgstr ""
 
-#: help/help33.php:27
+#: help/help33.php:6
+msgid "Support"
+msgstr ""
+
+#: help/help33.php:11 help/help33.php:18
+msgid "Introduction"
+msgstr ""
+
+#: help/help33.php:12
+msgid "Project Honey Pot makes possible to install traps"
+msgstr ""
+
+#: help/help33.php:13
+msgid "against comment spammers and e-mail harvesters."
+msgstr ""
+
+#: help/help33.php:14
+msgid ""
+"These traps have to be activated by adding special links to posts / pages."
+msgstr ""
+
+#: help/help33.php:15
+msgid ""
+"This plugin automates the process by inserting such links to all existing "
+"posts / pages."
+msgstr ""
+
+#: help/help33.php:23
 msgid "Available Options"
 msgstr ""
 
+#: help/help33.php:26 help/help33.php:28
+msgid "checked"
+msgstr ""
+
+#: help/help33.php:26
+msgid ""
+"during uninstall procedure all plugin's information ( options, mappings ) "
+"will be removed from the database"
+msgstr ""
+
+#: help/help33.php:28
+msgid "the plugin's link to its settings page will be added to the Admin Bar"
+msgstr ""
+
+#: help/help33.php:32
+msgid "Options"
+msgstr ""
+
+#: help/help33.php:37
+msgid "Action Buttons"
+msgstr ""
+
+#: help/help33.php:39 help/help33.php:42 help/help33.php:45
+msgid "Inactive button - presentation only"
+msgstr ""
+
+#: help/help33.php:40
+msgid "saves modified settings to the database"
+msgstr ""
+
 #: help/help33.php:43
-msgid "Mapping"
+msgid "adds Honey Pot links to all existing posts / pages"
 msgstr ""
 
-#: help/help33.php:83
-msgid "Frequently Asked Questions"
+#: help/help33.php:46
+msgid "removes Honey Pot links from all existing posts /pages"
 msgstr ""
 
-#: help/help33.php:104
-msgid "FAQ"
+#: help/help33.php:50
+msgid "Actions"
 msgstr ""
 
 #. Plugin URI of the plugin/theme
-msgid "http://fw2s.com/fpw-category-thumbnails-plugin/"
+msgid "http://fw2s.com/fpw-honey-pot-links-plugin/"
 msgstr ""
 
 #. Description of the plugin/theme
-msgid "Sets post/page thumbnail based on category."
+msgid "Automates inserting / removing Honey Pot links into posts/pages"
 msgstr ""
 
 #. Author of the plugin/theme
