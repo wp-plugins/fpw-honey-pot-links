@@ -3,7 +3,7 @@ Contributors: frankpw
 Donate link: http://fw2s.com/payments-and-donations/
 Tags: honey,pot,link,plugin
 Requires at least: 3.3
-Tested up to: 3.4-beta3
+Tested up to: 4.0.1
 Stable tag: 1.0.0
 
 Adds / removes Honey Pot links to / from existing posts / pages.
@@ -26,6 +26,10 @@ links to all existing posts / pages.
 1. Settings Page
 
 == Changelog ==
+
+= 1.0.1 =
+* Fixed duplicating links
+* Fixed translation strings
 
 = 1.0.0 =
 * First release
